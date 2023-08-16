@@ -4,7 +4,7 @@ SEOTitle: 云客的博客 | My Blog
 header-img: img/home-bg.jpg
 email: yunkex@gmail.com
 description: "My Blog"
-keyword: "云客, yunkex, @yunkex, 黄玄的博客, My Blog, 博客"
+keyword: "云客, yunkex, @yunkex, 云客的博客, My Blog, 博客"
 url: "https://yunkex.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
