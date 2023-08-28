@@ -1,1 +1,1 @@
-`A person surfing the vast expanse of the internet.`
+A person surfing the vast expanse of the internet.
